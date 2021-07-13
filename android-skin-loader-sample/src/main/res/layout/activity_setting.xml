@@ -39,6 +39,7 @@
         android:layout_below="@id/divider"
         android:textColor="@color/color_sel_skin_btn_text"
         android:textSize="20sp"
+        android:gravity="center"
         skin:enable="true" 
         android:text="暗夜诱惑"
         android:background="@drawable/news_item_selector" />
